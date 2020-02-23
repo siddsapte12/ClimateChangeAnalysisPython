@@ -53,7 +53,7 @@ For the plot, we leverage the statsmodels package for lowess smoothing. This hel
 
 Trend of Carbon Emission:
 
-![Trend of Carbon Emission](Demo/third.PNG)
+![Trend of Carbon Emission](Demo/three.PNG)
 
 Temprature and Carbon Emission Correlation Trend:
 
